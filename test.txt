@@ -1,0 +1,4 @@
+USD 10
+EUR 55
+JPN 20
+GBP 10
